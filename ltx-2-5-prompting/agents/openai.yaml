@@ -1,0 +1,4 @@
+interface:
+  display_name: "LTX 2.5 提示词"
+  short_description: "依据官方六要素指南，编写单镜头、多镜头、运镜及音画同步提示词"
+  default_prompt: "使用 $ltx-2-5-prompting，把我的创意改写成适合 LTX-2.5 的可直接使用的视频提示词。"
